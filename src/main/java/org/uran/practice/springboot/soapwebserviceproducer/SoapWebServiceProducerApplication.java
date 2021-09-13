@@ -1,4 +1,4 @@
-package org.uran.practice.springboot.SOAPwebserviceproducer;
+package org.uran.practice.springboot.soapwebserviceproducer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

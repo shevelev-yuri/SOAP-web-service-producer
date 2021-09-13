@@ -1,4 +1,4 @@
-package org.uran.practice.springboot.SOAPwebserviceproducer;
+package org.uran.practice.springboot.soapwebserviceproducer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
